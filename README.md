@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center">Telecommunication graduate, QA engineer, transforming ideas into code since 2016 :)</h3>
+<h3 align="center">Telecommunication graduate, QA engineer, transforming ideas into code since 2016 🙂</h3>
 
-- 🔭 I’m currently working on [locker](https://github.com/karolchod/locker)
+- 🔭 I’m currently working on [full-stack project of interactive locker to store/transfer parcels](https://github.com/karolchod/locker)
 
 - 🌱 I’m currently learning **Java + Angular**
 
