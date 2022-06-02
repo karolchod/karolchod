@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [full-stack project of interactive locker to store/transfer parcels](https://github.com/karolchod/locker)
 
-- 🌱 I’m learning **Java and Angular**
+- 🌱 I’m currently focusing on **building backend in Spring Boot and web development with Angular**
 
 - ⚡ I want to try C# and Unity
 
