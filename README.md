@@ -1,1 +1,2 @@
+Product Owner with a QA background and a passion for **smart home, Arduino, full-stack web development, and hands-on electronics projects**.
 <p align="left"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolchod&show_icons=true&locale=en&layout=compact" alt="karolchod" /><!--<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=karolchod&" alt="karolchod" /></p>-->
